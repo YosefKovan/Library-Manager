@@ -9,4 +9,4 @@ class Logger:
             case "INFO" :
                  print(f"[INFO] {details} | Time : ", time.ctime())
             case "ERROR" :
-                print(f"[Error] Error Occured - {details} | Time : ", time.ctime())
+                print(f"[Error] Error Occurred - {details} | Time : ", time.ctime())
